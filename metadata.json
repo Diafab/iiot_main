@@ -1,0 +1,6 @@
+{
+  "name": "Monitoreo Industrial Firebase",
+  "description": "Sistema responsive de monitoreo industrial en tiempo real con Firebase Realtime Database, Firestore y Auth",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
