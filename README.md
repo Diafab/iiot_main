@@ -1,4 +1,4 @@
-# Aplicación Web Responsive de Monitoreo Industrial (Google AI Studio)
+# Aplicación Web Responsive de Monitoreo Industrial 
 
 Sistema de supervisión industrial en tiempo real desarrollado con React, TypeScript, Tailwind CSS, Firebase Realtime Database, Cloud Firestore y Firebase Authentication con Google.
 
